@@ -1,0 +1,13 @@
+numpy
+pandas
+
+xgboost
+lightgbm
+catboost
+
+# Sklearn utilities
+# StratifiedKFold, TargetEncoder, LabelEncoder, LogisticRegression,
+# balanced_accuracy_score, compute_sample_weight
+scikit-learn
+scipy         # minimize (Nelder-Mead), entropy
+torch            # used only for torch.cuda.is_available()
